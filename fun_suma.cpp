@@ -17,7 +17,7 @@ int main() {
 	cout << "Ingrese el primer numero: ";
 	cin >> num1;
 	
-	// Solicitar al usuario que ingrese el segundo número
+	// Solicitar al usuario que ingrese el segundo numero
 	cout << "Ingrese el segundo numero: ";
 	cin >> num2;
 	
